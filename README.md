@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-New home of https://github.com/Yuri-chan2007/sorts
+This repo contains sorting algorithms written in many languages.
